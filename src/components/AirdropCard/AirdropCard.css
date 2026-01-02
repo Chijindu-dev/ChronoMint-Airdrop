@@ -65,7 +65,7 @@
     color: #fff;
 }
 
-.aird.result-eligible p {
+.result-eligible p {
     color: var(--text-muted);
     font-size: 0.9rem;
     margin-bottom: 24px;
